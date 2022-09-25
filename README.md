@@ -1,4 +1,5 @@
 # hub-noob
 
 README.md file was just added manually
-This file is modified locally
+
+This line is modified manually durning conflicts resolution
